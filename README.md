@@ -14,8 +14,7 @@
 	<sub>1.1 GeoCities was a once very popular web hosting service founded in 1994 and purchased by Yahoo in 1999. Marked by its once-generous allotment of 15 megabytes and the free (with added advertisements) price...</sub>
 </sup>
 
-![](https://github.com/k-marquis/k-marquis.github.io/images/dbz.gif)
-
+![](https://github.com/k-marquis/k-marquis.github.io/blob/main/images/dbz.gif)
 ## Theme Information
 
 Stellar by HTML5 UP
