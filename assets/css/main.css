@@ -197,7 +197,7 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
 		line-height: 1.5;
-		margin: 0 0 0.7em 0;
+		margin: 0 0 0.3em 0;
 		letter-spacing: -0.025em;
 	}
 
@@ -2360,6 +2360,14 @@ input, select, textarea {
 			background-color: rgba(255, 255, 255, 0.2);
 		}
 
+/* Clickable a tag with no underline, add opacity */
+
+	.clickable-opacity {
+		border-bottom: none; 
+		cursor:pointer;
+	}
+
+
 /* Image */
 
 	.image {
@@ -3581,7 +3589,7 @@ input, select, textarea {
 		}
 
 		#main > .main {
-			padding: 3em 3em 2em 3em ;
+			padding: 2em 3em 2em 3em ;
 			border-top: solid 1px #dddddd;
 		}
 
@@ -3690,7 +3698,7 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		padding: 5em 5em 3em 5em ;
+		padding: 2em 2em 1em 2em ;
 		width: calc(100% + 2em);
 		margin: 0 0 3em -2em;
 	}
