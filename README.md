@@ -3,15 +3,15 @@
 # Personal Website
 ## Objectives
 
-- [x] Mess around with this front-end theme. (Shout-out to [html5up.net](html5up).)
-- [x] Don't make it a blog.* 
+- [x] Mess around with the front-end theme. ( Shout-out to [html5up.net](html5up). )
+- [x] Don't make it a blog.<sup>1</sup> 
 
 - [x] Have it motivate me to finish some projects and keep learning stuff.
 
 - [x] Develop a community of like-minded individuals (probably people I already know.)
 
-	<sup>* It'd just get neglected like anything else with timestamps - _looking at you Github repos_ :eyes:. My goal is to have this be like my Geocities** Dragon Ball Z Fanpage - which I **guar-an-fuckin-tee** would still be :fire: if it was still hosting it. Timeless.<br>
-	<sub>** GeoCities was a once very popular web hosting service founded in 1994 and purchased by Yahoo in 1999. Marked by its once-generous allotment of 15 megabytes and the free (with added advertisements) price...</sub>
+	<sup>1. It'd just get neglected like anything else I do that has timestamps - _looking at you Github repos_ :eyes:. <br>My goal is to have this be like my Geocities<sup>1.1</sup> Dragon Ball Z Fanpage - which I **guar-an-fuckin-tee** would still be :fire: if it was still hosted. Absolutely timeless.<br>
+	<sub>1.1 GeoCities was a once very popular web hosting service founded in 1994 and purchased by Yahoo in 1999. Marked by its once-generous allotment of 15 megabytes and the free (with added advertisements) price...</sub>
 </sup>
 
 ![](https://github.com/k-marquis.github.io/images/dbz.gifdbz.gif)
