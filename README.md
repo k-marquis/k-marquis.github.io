@@ -10,11 +10,11 @@
 
 - [x] Develop a community of like-minded individuals (probably people I already know.)
 
-	<sup>1. It'd just get neglected like anything else I do that has timestamps - _looking at you Github repos_ :eyes:. <br>My goal is to have this be like my Geocities<sup>1.1</sup> Dragon Ball Z Fanpage - which I **guar-an-fuckin-tee** would still be :fire: if it was still hosted. Absolutely timeless.<br>
+	<sup>1. It'd just get neglected like anything else I do that has timestamps - _looking at you Github repos_ :eyes:. <br>My goal is to have this be like my Geocities<sup>1.1</sup> Dragon Ball Z Fanpage - which I **guar-an-fuckin-tee** would still be :fire: if it was still hosted. <br> Absolutely timeless.<br>
 	<sub>1.1 GeoCities was a once very popular web hosting service founded in 1994 and purchased by Yahoo in 1999. Marked by its once-generous allotment of 15 megabytes and the free (with added advertisements) price...</sub>
 </sup>
 
-![](https://github.com/k-marquis.github.io/images/dbz.gifdbz.gif)
+![](https://github.com/k-marquis/k-marquis.github.io/images/dbz.gif)
 
 ## Theme Information
 
