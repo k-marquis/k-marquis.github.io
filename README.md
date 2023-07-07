@@ -1,6 +1,8 @@
 
 
 # Personal Website
+
+Felt like I should have my own website, and this seems like the path of lease resistance. If you're into tech stuff at all, ya gotta have a website.
 ## Objectives
 
 - [x] Mess around with the front-end theme. ( Shout-out to [html5up.net](html5up). )
